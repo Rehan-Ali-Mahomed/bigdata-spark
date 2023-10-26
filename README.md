@@ -127,10 +127,12 @@ nc -lvp 9999
 ```
 
 Côté client :
-![Alt text](src\stream-test-client-side.png "Stream result client side")
+
+![Alt text](src/stream-test-client-side.png "Stream result client side")
 
 Côté serveur :
-![Alt text](src\stream-test-server-side.png "Stream result server side")
+
+![Alt text](src/stream-test-server-side.png "Stream result server side")
 
 Avec spark-submit :
 ```
